@@ -1,0 +1,113 @@
+08 Apr 2019 03:08:47,120 [JavaFX Application Thread] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {} 
+08 Apr 2019 03:08:47,148 [JavaFX Application Thread] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {} 
+08 Apr 2019 03:08:47,153 [JavaFX Application Thread] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {} 
+08 Apr 2019 03:08:47,599 [JavaFX Application Thread] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... null
+08 Apr 2019 03:08:47,600 [JavaFX Application Thread] Repository.JDBCUtils 30 getNewConnection - user: null
+08 Apr 2019 03:08:47,600 [JavaFX Application Thread] Repository.JDBCUtils 31 getNewConnection - pass: null
+08 Apr 2019 03:09:50,981 [JavaFX Application Thread] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+08 Apr 2019 03:09:50,993 [JavaFX Application Thread] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+08 Apr 2019 03:09:50,995 [JavaFX Application Thread] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+08 Apr 2019 03:09:51,429 [JavaFX Application Thread] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+08 Apr 2019 03:09:51,430 [JavaFX Application Thread] Repository.JDBCUtils 30 getNewConnection - user: null
+08 Apr 2019 03:09:51,430 [JavaFX Application Thread] Repository.JDBCUtils 31 getNewConnection - pass: null
+08 Apr 2019 03:09:51,446 [JavaFX Application Thread] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 10:57:06,528 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 10:57:06,540 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 10:57:06,544 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 11:07:24,706 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 11:07:24,726 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 11:07:24,727 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 11:07:51,380 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 11:07:51,381 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 11:07:51,381 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 11:07:51,390 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 11:07:52,956 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 11:07:52,956 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 11:07:52,957 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 11:07:52,957 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 11:07:56,971 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 11:07:56,971 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 11:07:56,971 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 11:07:56,972 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:27:06,642 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:27:06,642 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:27:06,642 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:27:31,243 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:27:31,243 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:27:31,243 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:27:31,249 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:27:32,577 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:27:32,577 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:27:32,577 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:27:32,577 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:28:18,444 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:28:18,460 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:28:18,460 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:28:40,847 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:28:40,847 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:28:40,847 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:28:40,857 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:28:42,204 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:28:42,206 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:28:42,207 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:28:42,208 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:29:41,722 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:29:41,740 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:29:41,740 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:29:48,406 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:30:14,215 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:30:32,391 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:30:32,422 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:30:32,422 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:30:41,231 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:03,640 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:03,671 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:03,671 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:15,372 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:15,387 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:32:15,387 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:33:01,027 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:33:01,027 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:33:01,028 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:33:01,037 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:33:03,443 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:33:03,444 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:33:03,444 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:33:03,444 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:33:42,549 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:33:42,549 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:33:42,564 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:33:58,589 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:33:58,590 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:33:58,590 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:33:58,595 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:33:59,927 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:33:59,929 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:33:59,929 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:33:59,930 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:34:53,691 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:34:53,707 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:34:53,707 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:35:11,726 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:35:11,726 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:35:11,726 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:35:11,732 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:35:13,065 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:35:13,066 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:35:13,067 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:35:13,067 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:36:13,560 [main] Repository.DBRepositoryCurse 23 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:36:13,575 [main] Repository.DBRepositoryRezervari 22 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:36:13,575 [main] Repository.DBRepositoryAngajati 21 <init> - Initializing SortingTaskRepository with properties: {tasks.server.port=55556, tasks.jdbc.url=jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db, tasks.jdbc.driver=org.sqlite.JDBC} 
+10 Apr 2019 12:36:35,343 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:36:35,343 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:36:35,343 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:36:35,348 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:36:36,683 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:36:36,684 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:36:36,685 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:36:36,686 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
+10 Apr 2019 12:36:56,474 [Thread-1] Repository.JDBCUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Corina\An II\MPP\LaboratorDB.db
+10 Apr 2019 12:36:56,474 [Thread-1] Repository.JDBCUtils 30 getNewConnection - user: null
+10 Apr 2019 12:36:56,475 [Thread-1] Repository.JDBCUtils 31 getNewConnection - pass: null
+10 Apr 2019 12:36:56,475 [Thread-1] Repository.JDBCUtils 35 getNewConnection - Loaded driver ...org.sqlite.JDBC
